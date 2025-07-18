@@ -1,0 +1,17 @@
+{
+  "name": "feedback-collection-platform",
+  "version": "1.0.0",
+  "description": "A MERN stack feedback collection platform",
+  "main": "index.js",
+  "scripts": {
+    "install-backend": "cd backend && npm install",
+    "install-frontend": "cd frontend && npm install", 
+    "install-all": "npm run install-backend && npm run install-frontend",
+    "start-backend": "cd backend && npm run dev",
+    "start-frontend": "cd frontend && npm start",
+    "build-frontend": "cd frontend && npm run build"
+  },
+  "keywords": ["mern", "feedback", "forms", "react", "nodejs"],
+  "author": "",
+  "license": "MIT"
+}
