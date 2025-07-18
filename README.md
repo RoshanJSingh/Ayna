@@ -2,7 +2,7 @@
 
 A full-stack web application built with the MERN stack that allows businesses to create feedback forms and collect responses from customers.
 
-## 📚 Documentation
+##  Documentation
 
 - **[User Guide](USER_GUIDE.md)** - Complete guide for using the platform
 - **[Deployment Guide](DEPLOYMENT_GUIDE.md)** - Instructions for deploying to production
