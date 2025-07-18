@@ -1,4 +1,4 @@
-# AYNA - Feedback Collection Platform
+#  Feedback Collection Platform
 
 A full-stack web application built with the MERN stack that allows businesses to create feedback forms and collect responses from customers.
 
